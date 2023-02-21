@@ -1,0 +1,4 @@
+include ':app'
+include ':base'
+include ':widget'
+rootProject.name = "BHD Access control"
